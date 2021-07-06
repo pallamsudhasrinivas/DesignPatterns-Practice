@@ -1,4 +1,4 @@
-package com.mycode.pract.designpattern.creational;
+package com.mycode.pract.designpattern.creational.singleton;
 
 /**
  *  It will create an instance if the instance is null, or else it will return the reference

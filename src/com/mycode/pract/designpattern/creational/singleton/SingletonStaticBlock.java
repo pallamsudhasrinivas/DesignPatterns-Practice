@@ -1,4 +1,4 @@
-package com.mycode.pract.designpattern.creational;
+package com.mycode.pract.designpattern.creational.singleton;
 
 /**
  * Static blocks are executed during class loading before the constructor is called.

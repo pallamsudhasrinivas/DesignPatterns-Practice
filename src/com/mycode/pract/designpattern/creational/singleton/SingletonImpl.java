@@ -1,4 +1,4 @@
-package com.mycode.pract.designpattern.creational;
+package com.mycode.pract.designpattern.creational.singleton;
 
 public class SingletonImpl {
 

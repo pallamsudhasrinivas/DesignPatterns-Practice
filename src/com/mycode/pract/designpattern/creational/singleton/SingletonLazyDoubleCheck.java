@@ -1,4 +1,4 @@
-package com.mycode.pract.designpattern.creational;
+package com.mycode.pract.designpattern.creational.singleton;
 
 /**
  * double-checked locking method. It will recheck the instance variable in a synchronized block

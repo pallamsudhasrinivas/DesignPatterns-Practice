@@ -1,4 +1,4 @@
-package com.mycode.pract.designpattern.creational;
+package com.mycode.pract.designpattern.creational.singleton;
 
 /**
  * The instance is created irrespective of whether the instance is required
