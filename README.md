@@ -4,6 +4,8 @@ Design patterns are the proved solutions for the problem statements. With the de
 Design patterns acts as a common language between the developers, So that they can understand the concepts while working on common problem
 
 There are 3 categories of Design Patterns
+
+      
       -- Creational Design Patterns
             |
             |----- Factory pattern
@@ -11,7 +13,7 @@ There are 3 categories of Design Patterns
             |----- Builder pattern
             |----- Prototype pattern
             |----- Singleton
-       
+            
       -- Structural Design Patterns
             |
             |---- Adaptor pattern
